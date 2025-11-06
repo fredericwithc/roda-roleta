@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Spin Wheel</title>
+</head>
+
+<body>
+      <div class="main-container">
+        <div class="wheel-container">
+            <div class="spinBtn">Spin</div>
+            <div class="wheel" id="wheel">
+                <!-- As seções serão geradas dinamicamente pelo JavaScript -->
+            </div>
+            <div class="winner" id="winner"></div>
+        </div>
+
+        <div class="control-panel">
+            <h2>Editor da Roleta</h2>
+            
+            <div class="options-list" id="optionsList">
+                <!-- Opções serão inseridas aqui dinamicamente -->
+            </div>
+
+            <button class="add-option-btn" id="addOptionBtn" onclick="addNewOption()">
+                ➕ Adicionar Nova Opção
+            </button>
+
+            <div class="distribution-info" id="distributionInfo">
+                <!-- Info sobre distribuição será mostrada aqui -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
