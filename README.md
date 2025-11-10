@@ -1,6 +1,8 @@
 # Spin Wheel / EN
 A customizable fortune wheel for random selections.
 
+![Screenshot](Screenshot_1.png)
+
 ## Links
 * Try it: **https://fredericwithc.github.io/roda-roleta/**
 * Repository: **https://github.com/fredericwithc/roda-roleta**
@@ -38,6 +40,9 @@ Linkedin: https://www.linkedin.com/in/frederic-leyenberger/
 
 # Roda Roleta / PT-BR
 Uma roleta da fortuna customizável para seleções aleatórias.
+
+![Screenshot](Screenshot_1.png)
+
 ## Links
 * Experimente: **https://fredericwithc.github.io/roda-roleta/**
 * Repositório: **https://github.com/fredericwithc/roda-roleta**
